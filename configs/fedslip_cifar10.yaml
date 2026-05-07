@@ -1,0 +1,4 @@
+# CIFAR-10 specific configuration for FedSLIP.
+dataset: cifar10
+model: fedslip
+rounds: 1

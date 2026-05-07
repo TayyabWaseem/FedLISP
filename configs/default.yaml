@@ -1,0 +1,4 @@
+# Default configuration for FedSLIP training runs.
+experiment_name: fedslip_default
+rounds: 1
+clients_per_round: 1

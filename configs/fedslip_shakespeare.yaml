@@ -1,0 +1,4 @@
+# Shakespeare specific configuration for FedSLIP.
+dataset: shakespeare
+model: fedslip
+rounds: 1
